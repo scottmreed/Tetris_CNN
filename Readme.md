@@ -26,6 +26,8 @@ This project provides an educational and visual approach to understanding the co
 3.  **Run the training script:** `python cnn_excel_training.py`
 4.  **Open `cnn_inference_trained.xlsx`**.
 
+## Video Walk Through
+See: https://youtu.be/2dXPxTUgIzQ
 ## Image
 
 ![Tetris Shapes](Tetris.png)
